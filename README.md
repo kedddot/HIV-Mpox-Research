@@ -13,3 +13,5 @@ ADDITIONAL INFO:
 - For Phase I, work as is yan dapat unless path finding is hard wired to my Mac.
 - Phase II required Biopython and pdb2pqr which I installed in a virtual environment alongside FoldX (nakuha ko sa website nila ung binary) and freesa which was installed locally on my device through terminal.
 - Phase II Common file is a requirement for all Phase II code. Make sure to create a folder "_common" and paste the phase2_common file inside the containing folder of all codes.
+- Phase II flows follows:
+    Execute Phase II A -> Execute Phase II B -> Import Sequences to AlphaFold 3 -> Import Files to Phase II B -> Execute Phase II B
