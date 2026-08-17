@@ -1,7 +1,0 @@
-{
-  "aggrescan3d_max_patch_length": 7,
-  "aggrescan3d_in_high_plddt_region": true,
-  "camsol_structural_max_patch_length": 11,
-  "camsol_structural_in_high_plddt_region": false,
-  "deepsol_probability": 0.9141357
-}
