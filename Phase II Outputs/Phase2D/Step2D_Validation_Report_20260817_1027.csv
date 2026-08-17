@@ -1,0 +1,2 @@
+Variant,Structure_File,MolProbity_Score,MolProbity_Clashscore,MolProbity_Poor_Rotamers_Pct,Rama_Favored,Rama_Allowed,Rama_Outlier,MP_Quality,Rama_Label,Rama_Meets_Target,Overall_Status,Manual_Results_File
+Vax_Var1_fb3faeb6 | length=138,../StepC/Supplementary_Archive/Vax_Var1_fb3faeb6_minimized.pdb,0.86,0,0.0,95,5.15,0.0,EXCELLENT,MEETS TARGET (95-98%),True,VALIDATED,Vax_Var1_fb3faeb6_manual_results.json
