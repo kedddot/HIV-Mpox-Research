@@ -6,7 +6,8 @@
 - Log 4 (August 15, 2026): Completed a mock prototype of Phase II, revisions needed to be applied in actual work but should work as intended.
 - Log 5 (August 16, 2026): Completed Phase II steps A and B, ready to run, made Github repo to store the codes and its results.
 - Log 6 (August 16, 2026): Completed Phase II step C, changed MolPro for DeepSol and ran AggreScan3D locally instead.
-- Log 7 (August 17, 2026): Completed Phase II step D, marking the finished product for Phase II but reliability remains a problem as ramachandran flavored plot yielded 94.85 which is less than the 95 threshold expected. The group decided to round it up and proceed instead, opting to re-do phase I and II if phase III yields bad results
+- Log 7 (August 17, 2026): Completed Phase II step D, marking the finished product for Phase II but reliability remains a problem as ramachandran flavored plot yielded 94.85 which is less than the 95 threshold expected. The group decided to round it up and proceed instead, opting to re-do phase I and II if phase III yields bad results.
+- Log 8 (August 18, 2026): Re did phase II step D entirely with the integration of phenix and was able to produce a usable pdb file  that hit the targeted >95% ramachandran flavored percentage and fixed structure.
 
 
 ADDITIONAL INFO:
